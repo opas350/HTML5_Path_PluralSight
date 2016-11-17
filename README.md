@@ -8,12 +8,12 @@ This reppo will contain some of my code generated from the courses of HTML5 path
 4.-Meeting Web Accessibility Guidelines
 
 #Intermediate
-1.-Practical HTML5  
-2.-HTML5 Web Component Fundamentals  
-3.-WebRTC Fundamentals  
-4.-HTML5 Audio, Video and WebRTC  
-5.-HTML5 Browser Caching  
+1.-Practical HTML5</br>  
+2.-HTML5 Web Component Fundamentals</br>  
+3.-WebRTC Fundamentals</br>  
+4.-HTML5 Audio, Video and WebRTC</br>
+5.-HTML5 Browser Caching</br>
 
 #Advanced
-1.-HTML5 Advanced Topics  
-2.-HTML5 Web Storage, IndexedDB and File System  
+1.-HTML5 Advanced Topics</br>
+2.-HTML5 Web Storage, IndexedDB and File System</br>
